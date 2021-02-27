@@ -164,8 +164,8 @@ body {
 
 /* Typography */
 
-h1,
-h2 {
+.header h1,
+.header h2 {
   font-size: 2.4rem;
   font-weight: 400;
   padding: 1rem 0;
@@ -174,7 +174,7 @@ h2 {
   color: #ebe1e1;
 }
 
-h3,
+.header h3,
 time {
   font-size: 1.4rem;
   font-weight: 600;
