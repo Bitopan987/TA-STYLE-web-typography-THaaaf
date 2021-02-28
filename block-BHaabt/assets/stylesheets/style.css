@@ -303,12 +303,16 @@ h4 {
   padding: 3rem 0 2rem 0;
 }
 
-.feature-icon i {
+.feature-icon {
   font-size: 1.5rem;
   background-color: #8ab4f0;
-  padding: 9px;
+  height: 2.7rem;
+  width: 2.7rem;
   border-radius: 50%;
   color: #f4f4f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .feature h2 {
